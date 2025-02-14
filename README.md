@@ -1,2 +1,2 @@
-# Lescheva-s_Kaggle_Notebooks
+# Kaggle Notebooks
 My Kaggle Notebooks
